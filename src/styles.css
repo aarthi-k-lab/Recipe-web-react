@@ -1,0 +1,68 @@
+.App {
+  margin: auto;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+.duration {
+  text-align: center;
+  margin: 5px;
+}
+
+.measureSection,
+.header {
+  margin: 5px;
+}
+
+.wpO6b {
+  background: white;
+  border: none;
+}
+
+.Ingredientheader,
+.directionHeader {
+  padding: 2px;
+  border: 1px solid black;
+  background-color: #921562;
+}
+
+.ingredientsreq,
+.direction {
+  background-color: #00bc8c;
+  text-align: left;
+}
+
+.fontsize {
+  padding: 2px;
+  border: 1px solid black;
+  background-color: #921562;
+}
+
+.count {
+  align-self: center;
+}
+
+.IngredientContent,
+.directioncontent {
+  margin: 10px;
+  text-align: left;
+  padding: 5px;
+  list-style: none;
+  font-size: 15px;
+}
+
+.directioncontent {
+  list-style: outside;
+}
+
+.ingButton {
+  background-color: #00bc8c;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.slidespan {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+}
